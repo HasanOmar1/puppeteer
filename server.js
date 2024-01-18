@@ -12,7 +12,7 @@ const url = "https://fairytalez.com/region/maori/";
 const main = async () => {
   const browser = await puppeteer.launch({
     headless: false,
-    executablePath: "C:/ProgramData/Microsoft/Windows/Start Menu/Programs",
+    executablePath: "C:/Program Files/Google/Chrome/Application",
   });
   const page = await browser.newPage();
   await page.goto(url);
