@@ -43,10 +43,10 @@ const main = async () => {
     });
     console.log(bookInfo);
 
-    const booksTitle = fs.readFileSync("./booksTitles.json", "utf-8");
-    let parsedBooks = JSON.parse(booksTitle);
-    parsedBooks = [...parsedBooks, ...bookInfo];
-    fs.writeFileSync("booksTitles.json", JSON.stringify(parsedBooks));
+    // const booksTitle = fs.readFileSync("./booksTitles.json", "utf-8");
+    // let parsedBooks = JSON.parse(booksTitle);
+    // parsedBooks = [...parsedBooks, ...bookInfo];
+    // fs.writeFileSync("booksTitles.json", JSON.stringify(parsedBooks));
   }
 
   await browser.close();
