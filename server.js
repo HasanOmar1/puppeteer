@@ -10,7 +10,10 @@ app.use(express.json());
 const url = "https://fairytalez.com/region/maori/";
 
 const main = async () => {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({
+    headless: false,
+    executablePath: "C:ProgramDataMicrosoftWindowsStart MenuPrograms",
+  });
   const page = await browser.newPage();
   await page.goto(url);
 
@@ -41,7 +44,7 @@ const main = async () => {
           : false,
       }));
     });
-    console.log(bookInfo);
+    // console.log(bookInfo);
 
     // const booksTitle = fs.readFileSync("./booksTitles.json", "utf-8");
     // let parsedBooks = JSON.parse(booksTitle);
