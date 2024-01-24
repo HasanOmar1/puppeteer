@@ -28,7 +28,7 @@ const main = async () => {
   }, url);
   console.log(bookData);
   await browser.close();
-  fs.writeFileSync("works.json", JSON.stringify(bookData));
+  // fs.writeFileSync("works.json", JSON.stringify(bookData));
 };
 
 main();

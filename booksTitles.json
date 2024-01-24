@@ -1,6 +1,7 @@
 [
   {
     "title": "Brother and Sister (Maori tale)",
+    "author": "Edith Howes",
     "content": [
       "Rupe and Hina were brother and sister, but they loved each other with a love greater than that of most brothers and sisters. So close was the bond between them that they were scarcely happy except when together.",
       "One day Hina fell into the sea and was carried out by the tide. Fortunately she wore a magic girdle. This protected her from death, but she went floating out over the horizon, miles away from her home and parents and beloved brother. Nobody had seen her fall. When she was missed there was a grief-stricken search. No trace of her could be found.",
@@ -20,6 +21,7 @@
   },
   {
     "title": "How the Moon Was Made",
+    "author": "Edith Howes",
     "content": [
       "Long, long ago, before there was a moon in the sky, there lived two beautiful maidens who loved each other dearly. One was called by a name that meant Shining-Eyes, and the other by a name that meant Rippling-Hair.",
       "Shining-Eyes had heard a great deal about the Fire-that-never-goes-out. She often talked to Rippling-Hair about it. “It is kept in one of the underworlds,” she said. “Fierce spirits guard it day and night. If we could bring it away we should obtain the Life-that-never-dies. Think of it. Unending Life! What a gift that would be to the world!”",
@@ -61,6 +63,7 @@
   },
   {
     "title": "The Magic Jawbone",
+    "author": "Hartwell James",
     "content": [
       "How when Maui was cast away by his mother, the winds and the waves took care of him.",
       "On a dark summer night, many hundreds of years ago, a woman was standing on the shore of the South Pacific Ocean. She was not a white woman, for that was long before any white people had found their way to New Zealand or even knew that there was such a country. She was a Maori woman with a brown skin, soft dark eyes and long black hair, thick and wavy. No one has ever been able to find out where the Maoris really came from; but they have a great many strange and beautiful stories which have been handed down from father to son for hun-\ndreds of years, and this story of Maui and his wonderful exploits is one of them.",
@@ -169,6 +172,7 @@
   },
   {
     "title": "The Magician's Magic",
+    "author": "Edith Howes",
     "content": [
       "Ruarangi’s wife was so beautiful that the Fairy King fell in love with her and carried her off to his fairy city. There he said a charm that caused her to forget her former life, her husband and her home. When Ruarangi came home at night to find his house empty, his beloved wife gone, his grief was terrible. After a fruitless search he went to a Magician. “Find out where my wife is,” he begged.",
       "“What will you give me for my services?” asked the Magician.",
@@ -201,6 +205,7 @@
   },
   {
     "title": "Maui (Edith Howes version)",
+    "author": "Edith Howes",
     "content": [
       "When he was a baby Maui was lost on the sea shore. But though lost, he was not harmed, for the sea creatures took care of him. Little waves rocked him to and fro, jelly-fish made a soft bed for him, sea-weeds floated above his limbs to shelter him, beach winds crooned light cradle songs to lull him off to sleep.",
       "He slept happily, till hungry seabirds spied him. With their cruel eyes and strong hooked beaks they gathered round him, eager for a feast. The sea-weeds tossed themselves above him as protection, but the birds would certainly have devoured him had not Rangi looked down from the sky and observed his danger.",
@@ -238,9 +243,15 @@
     ],
     "img": false
   },
-  { "title": "More About Maui", "content": [], "img": false },
+  {
+    "title": "More About Maui",
+    "author": "Edith Howes",
+    "content": [],
+    "img": false
+  },
   {
     "title": "On the Moon",
+    "author": "Edith Howes",
     "content": [
       "When Shining-Eyes threw the Fire-that-never- goes-out into the sky it was only a flaming stick, but it grew rounder and wider and cooler, until at last it became a great Moon-land. It was a wonderland place. Everything gave out a golden light — mountains and lakes, rocks and trees and flowers, and even the walls and spires of a beautiful moon-palace that Marama had built. In the palace lived Marama, all alone. At first he had been so charmed with his fine new land that he had not noticed the loneliness, but after some time he began to say to himself: “Why have I no one to share my work and play? There is no pleasure in playing star-ball by myself, and I am tired of singing with no one to listen. Oh, for a companion!”",
       "He asked the Sky-fairies to live with him, but they refused; they had their stars to guard. He looked down on the earth. A beautiful girl with a calabash in her hand walked to a stream at the foot of a hill for water. A young man ran down the hill after her. “Ina! Ina! ” he called.  It was her old playmate, the friend she loved better than anybody else. She waited for him. They went to the stream together, and Marama watched the return. Several times the girl’s face was turned upwards to the moon; each time Marama thought it more beautiful. All next day he could think of nothing else.",
@@ -265,6 +276,7 @@
   },
   {
     "title": "The Sea-King's Victory",
+    "author": "Edith Howes",
     "content": [
       "The Sea-king in his palace under the water heard the sound of bitter weeping on the shore. “Somebody is in trouble,” he said. “I must see what is the matter.”",
       "He changed himself into a fish and swam to the shore to look. A woman walked along the beach, wailing loudly.",
@@ -307,6 +319,7 @@
   },
   {
     "title": "The Six Brothers",
+    "author": "Edith Howes",
     "content": [
       "In the beginning, so the ancient stories say the land was dark. No light ever shone upon its surface, for Rangi, Master-of-the-Sky, hung low over Papa, the earth. In Papa’s garden, which was the land, no flowers grew nor trees; nothing but strange half-grown plants whose leaves were flattened as they pressed against great Rangi’s arms.",
       "For the sake of being together, Sky-father and Earth-mother forgot to care for the growth of flowers and trees, and even for the lives of their own children.",
@@ -353,6 +366,7 @@
   },
   {
     "title": "Tiki",
+    "author": "Edith Howes",
     "content": [
       "Tāne gazed on red clay that lay exposed where earth had fallen from a cliff. “Red, the sacred colour!” he said; “and earth, from which all things grow and flourish. Surely from this I can make something greater than anything I have yet attempted.”",
       "He gathered the red clay and worked it with his hands, kneading it and fashioning it into a shape like his own. When the shape was made he breathed into it his own breath. Slowly life went into the figure, and it began to breathe as if in sleep.",
@@ -365,6 +379,7 @@
   },
   {
     "title": "Tawhaki",
+    "author": "Edith Howes",
     "content": [
       "Tawhaki the Prince, was so brave and hand­some, and did so many noble deeds,  that his fame went abroad throughout the land.  At last even the Sky-fairies heard of him. One of them said, “I wonder whether this Earth-prince is as brave and handsome as they say he is. I will go down to the earth to see.”",
       "One summer morning she descended to the earth. Herself unseen, she watched Tawhaki, finding him even braver and more  handsome than any one had told her. Indeed, she was so pleased with him that she came out of her hiding­ place and made herself known to him.",
@@ -434,6 +449,7 @@
   },
   {
     "title": "The Wanderers",
+    "author": "Edith Howes",
     "content": [
       "Somewhere far across the sea lies Hawa-iki, that wonderful Motherland where the sun’s rays glow from early dawn to sudden night. Nobody knows now where that old land is, nobody has ever found it again, but its far-strewn sons and daughters still tell of its remembered glories, its radiant sunshine, its flowers and butterflies, its white-topped mountains and its mighty streams. Some think it may have been India, while others say it must have been some age-old continent which has since sunk and now lies buried under the Pacific Ocean.",
       "The brave people of that old Motherland were ready for adventure. When wars and famine drove them out from their ancient homes, they said, ” Let us set out across the sea that we may find new homes in which to live.”",

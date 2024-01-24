@@ -35,6 +35,7 @@ const main = async () => {
 
       return bookTitles.map((book) => ({
         title: book.querySelector("header h1").innerText,
+        author: book.querySelector(".categories a").innerText,
         content: Array.from(book.querySelectorAll(".entry p")).map(
           (para) => para.innerText
         ),
@@ -43,7 +44,7 @@ const main = async () => {
           : false,
       }));
     });
-    // console.log(bookInfo);
+    console.log(bookInfo);
 
     // const booksTitle = fs.readFileSync("./booksTitles.json", "utf-8");
     // let parsedBooks = JSON.parse(booksTitle);
